@@ -1,4 +1,14 @@
 #logoAP {
     width: 150px;
-   
+   left: 5%;
+    margin-bottom: 5px;
+}
+p{
+    left: 50%;
+    display: inline;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px;   
+    color: rgb(255, 255, 255);
+    font-size: 18px;
 }

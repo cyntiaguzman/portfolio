@@ -1,3 +1,11 @@
 img {
     width: 100%;
 }
+
+.banner {
+    width: 100%;
+    
+}
+.banner > img {
+    content: normal;
+}
