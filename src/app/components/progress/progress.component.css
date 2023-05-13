@@ -1,0 +1,12 @@
+.row {
+    padding: 5%;
+}
+h3, h4{
+    display: inline;
+}
+div>div{
+    text-align: center;
+    padding: 5px;
+    width: 10%;
+    display: contents;
+}
