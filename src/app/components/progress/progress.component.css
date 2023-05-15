@@ -1,5 +1,8 @@
 .row {
     padding: 5%;
+    background-color: #ffffffec;
+    justify-content: center;
+
 }
 h3, h4{
     display: inline;
